@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "user": "user",
+        "suggestion": "suggestion",
+        "status": "accepted"
+    },
+    {
+        "id": 1,
+        "user": "noob_on_Crack#0420",
+        "suggestion": "no cod plsss",
+        "status": "declined"
+    },
+    {
+        "id": 2,
+        "user": "Astl\u30e1botfrag#8336",
+        "suggestion": "chicken nuggets and cod plsss",
+        "status": "accepted"
+    },
+    {
+        "id": 3,
+        "user": "Astl\u30e1botfrag#8336",
+        "suggestion": "give everyone the best pc with liek rtx 1080 or sumn and secret lab chairs",
+        "status": "declined"
+    },
+    {
+        "id": 4,
+        "user": "noob_on_Crack#0420",
+        "suggestion": "valorant as it is fun",
+        "status": "declined"
+    },
+    {
+        "id": 5,
+        "user": "wHo#6933",
+        "suggestion": "surviv.io lmao",
+        "status": "pending"
+    }
+]
